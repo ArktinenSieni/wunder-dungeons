@@ -120,4 +120,8 @@ Connected to
 - [first room](#F2-1)
 - [fourth room](#F2-4)
 
+#### F2-4
+
+Connected to [third room](#F2-3)
+
 </details>
