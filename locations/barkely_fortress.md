@@ -23,6 +23,8 @@ Connected to
 
 ### B1
 
+![Barkely Fortress Cellar](../assets/barkely_fortress_b1_dm.png)
+
 #### B1-1
 
 Connected to
@@ -39,6 +41,8 @@ Connected to [room one](#B1-1)
 Connected to [room one](#B1-1)
 
 ### F1
+
+![Barkely Fortress first floor](../assets/barkely_fortress_f1_dm.png)
 
 #### F1-1
 
@@ -89,6 +93,8 @@ Connected to
 Connected to [room seven](#F1-7)
 
 ### F2
+
+![Barkely Fortress second floor](../assets/barkely_fortress_f2_dm.png)
 
 #### F2-1
 
