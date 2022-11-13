@@ -1,5 +1,9 @@
 # Barkely Fortress
 
+<details>
+
+<summary>For Dungeon Master's eyes only</summary>
+
 ## Stairways
 
 ### S1
@@ -116,3 +120,4 @@ Connected to
 - [first room](#F2-1)
 - [fourth room](#F2-4)
 
+</details>
