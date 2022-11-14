@@ -101,6 +101,8 @@ The barracks. Several goblinoids and worgs sleep in the room. The room is dark a
 
 At the back of the door is a secret door. Since it is incomplete, it can be seen if the room is lit. The secret door can be opened by pushing the wall.
 
+Maybe there is a goblin who is mistreated by its peers, and seeks revenge? Can be pursuaded to give the party some information.
+
 #### F1-6
 
 Connected to
@@ -162,6 +164,8 @@ Connected to
 - [stairs one](#S1)
 - [first room](#F2-1)
 - [fourth room](#F2-4)
+
+The dusty hallway has clearly carved door, which fits perfectly to its frame. Without the carvings the door would be invisible to the eye. Partying goblins can be heard from the other side of the wall. If the party decides to attack the goblins, the goblins will be surprised no matter the party's stealth check.
 
 #### F2-4
 
