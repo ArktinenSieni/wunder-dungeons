@@ -1,5 +1,7 @@
 # Barkely Fortress
 
+Abonded and unfinished fortress located in [Vaenem](./vaenem.md).
+
 <details>
 
 <summary>For Dungeon Master's eyes only</summary>
@@ -45,11 +47,15 @@ Connected to [room one](#B1-1)
 
 A hallway divided by multiple walls. Possibly intended to be multiple rooms? In the last two rooms there are yellow mold.
 
+Besides the mold, one of the rooms is infested with two [Violet Fungus](https://www.dndbeyond.com/monsters/17046-violet-fungus)
+
 #### B1-3
 
 Connected to [room one](#B1-1)
 
 There is a cave in. With a DC 15 perception or investigation players can determine that the cave in was intentional. The floor is covered with shallow surface of water. The corners are infested with yellow mold.
+
+The room has eerie and threatning feeling...
 
 ### F1
 
@@ -101,7 +107,9 @@ The barracks. Several goblinoids and worgs sleep in the room. The room is dark a
 
 At the back of the door is a secret door. Since it is incomplete, it can be seen if the room is lit. The secret door can be opened by pushing the wall.
 
-Maybe there is a goblin who is mistreated by its peers, and seeks revenge? Can be pursuaded to give the party some information.
+Goblin [Bebs](../characters/bebs.md) is muttering something in the corner. He can be pursuaded to help characters since he wants to overthrow the goblin boss [Clurx](../characters/clurx.md).
+
+Besides Bebs, there is three other goblins.
 
 #### F1-6
 
@@ -109,7 +117,7 @@ Connected to
 - [room five](#F1-5)
 - [room seven](#F1-7)
 
-Contrary to the previous room, the room seems to be in good condition. You can hear bats squeaking who are startled by light, if present. The room has several, dusty weapons of which some seem to be in good condition.
+Contrary to the previous room, the room seems to be in good condition. The room has several, dusty weapons of which some seem to be in good condition.
 
 #### F1-7
 
@@ -119,6 +127,7 @@ Connected to
 - [stairs one](#S1)
 
 There are slots for torches, but the torches themselves have rotted away a long time ago.
+Light will startle four swarms of bats who will attack the player holding the light.
 
 #### F1-8
 
@@ -144,9 +153,13 @@ At the North wall there is a colored glass window with some broken panes. It dep
 
 Goblinoids and their allies are dancing around the fire in the room. They're making fun of a bard, who has seen better days. He has metal chain around his neck which is connected to a chain. The chain is held by a goblin who is making demands to his performance. 
 
+The bard is [Harpo](../characters/harpo.md).
+
 There is a throne, which lies empty for now. 
 
 The secret door to the Western wall cannot be detected nor opened from this side.
+
+Door to the Chief's bedroom is guarded by a bugbear and two goblins.
 
 #### F2-2
 
@@ -157,6 +170,8 @@ Connected to
 
 Has the most valuable objects here. The chief himself has passed out from booze. He wakes up at some point, depending on how the party will behave. After he wakes, he will call the remaining goblins to his side to fight off the intruders.
 The furniture does include a stone table and a chair. Some bookshelves are included, and contain the plans for the castle.
+
+Goblin boss [Clurx](../characters/clurx.md) will challenge party with same amount of goblins as there is players.
 
 #### F2-3
 
