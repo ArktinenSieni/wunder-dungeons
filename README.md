@@ -25,5 +25,6 @@ you want to join!
 
 [jänkhä]: https://wunderdog.slack.com/team/U01FB70V17H
 [musu]: https://wunderdog.slack.com/team/U01R7T0GRDZ
+[Wunderworld]: worlds/wunderworld
 [#club-rpg]: https://wunderdog.slack.com/archives/C0A9YTLLR
 
