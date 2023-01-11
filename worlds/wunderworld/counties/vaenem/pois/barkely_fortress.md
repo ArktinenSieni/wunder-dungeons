@@ -107,7 +107,7 @@ The barracks. Several goblinoids and worgs sleep in the room. The room is dark a
 
 At the back of the door is a secret door. Since it is incomplete, it can be seen if the room is lit. The secret door can be opened by pushing the wall.
 
-Goblin [Bebs](../characters/bebs.md) is muttering something in the corner. He can be pursuaded to help characters since he wants to overthrow the goblin boss [Clurx](../characters/clurx.md).
+Goblin [Bebs](../../../characters/npcs/bebs.md) is muttering something in the corner. He can be pursuaded to help characters since he wants to overthrow the goblin boss [Clurx](../../../characters/npcs/clurx.md).
 
 Besides Bebs, there is three other goblins.
 
@@ -153,7 +153,7 @@ At the North wall there is a colored glass window with some broken panes. It dep
 
 Goblinoids and their allies are dancing around the fire in the room. They're making fun of a bard, who has seen better days. He has metal chain around his neck which is connected to a chain. The chain is held by a goblin who is making demands to his performance. 
 
-The bard is [Harpo](../characters/harpo.md).
+The bard is [Harpo](../../../characters/npcs//harpo.md).
 
 There is a throne, which lies empty for now. 
 
@@ -171,7 +171,7 @@ Connected to
 Has the most valuable objects here. The chief himself has passed out from booze. He wakes up at some point, depending on how the party will behave. After he wakes, he will call the remaining goblins to his side to fight off the intruders.
 The furniture does include a stone table and a chair. Some bookshelves are included, and contain the plans for the castle.
 
-Goblin boss [Clurx](../characters/clurx.md) will challenge party with same amount of goblins as there is players.
+Goblin boss [Clurx](../../../characters/npcs/clurx.md) will challenge party with same amount of goblins as there is players.
 
 #### F2-3
 
