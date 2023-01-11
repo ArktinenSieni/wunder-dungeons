@@ -10,4 +10,4 @@ patch and rocky slope. Main inhabitants are gnomes and recently some harengons.
 </details>
 
 [Vaenem]: ../vaenem/
-[The Fey sieges]: ./events/the-fey-sieges.md
+[The Fey sieges]: /events/the-fey-sieges.md
