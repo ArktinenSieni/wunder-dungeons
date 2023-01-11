@@ -10,6 +10,7 @@ You can do this like this:</br>
 <summary>SPOIELRS AHEAD</summary>
 Spoiler text goes here
 </details>
+
 ```
 <details>
 <summary>SPOIELRS AHEAD</summary>
