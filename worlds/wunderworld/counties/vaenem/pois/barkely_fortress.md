@@ -29,7 +29,7 @@ Connected to
 
 ### B1
 
-![Barkely Fortress Cellar](../assets/barkely_fortress_b1_dm.png)
+![Barkely Fortress Cellar](assets/barkely_fortress_b1_dm.png)
 
 #### B1-1
 
@@ -59,7 +59,7 @@ The room has eerie and threatning feeling...
 
 ### F1
 
-![Barkely Fortress first floor](../assets/barkely_fortress_f1_dm.png)
+![Barkely Fortress first floor](assets/barkely_fortress_f1_dm.png)
 
 #### F1-1
 
@@ -137,7 +137,7 @@ The road you arrived through can be seen from the arrow slits here.
 
 ### F2
 
-![Barkely Fortress second floor](../assets/barkely_fortress_f2_dm.png)
+![Barkely Fortress second floor](assets/barkely_fortress_f2_dm.png)
 
 #### F2-1
 
