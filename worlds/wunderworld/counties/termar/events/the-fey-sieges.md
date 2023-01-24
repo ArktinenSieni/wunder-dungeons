@@ -15,13 +15,27 @@ into the picture. They helped the harengon and gnomes alike - without taking
 part in the conflict itself - for a time and after multiple sieges of each
 others settlemts, they decided to call a truce and the gnomes offered to let the
 harengon stay if they paid taxes to Lethion as well as moved their settlement to
-a plave of their choosing. The harengon accepted and an unsteady peace was
+a place of their choosing. The harengon accepted and an unsteady peace was
 formed.
 
 <details> 
 <summary>SPOILERS!!!!</summary>
+
+### Reasons for the war
+
 Why the gnomes attacked? The Harengon were trespassing on the lands that the
 gnomes had used as sacred burial site for ages. They also were eating fruits of
 a plant plant known as Corpse Flower - a beautiful red flowered bush that
 blossomed upon older graves and that the gnomes revered as sacred.
+
+### What made this conflict worth of a name?
+
+During one extermly gruesome siege, where the harengon were able to cut off all
+supplies to Lethion, the gnomes started to sent out "hunting parties" that
+would capture harengon and bring them back to the city to be eaten. Enraged by
+this, the harengon started to capture some of the hunters and true polymorphing
+them into harengons just to have their former friends eat them. This was never
+discovered by the gnomes, and remains a dark and well guarded secret of the
+harengons. The harengon do not know that some of their polymorphed prisoners
+managed to run away, but coulndn't join Lethion as harengon.
 </details> 
