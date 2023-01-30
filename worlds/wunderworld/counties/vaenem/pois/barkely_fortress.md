@@ -1,10 +1,9 @@
 # Barkely Fortress
 
-Abonded and unfinished fortress located in [Vaenem](./vaenem.md).
+Abonded and unfinished fortress located in [Vaenem](./vaenem.md). Now the fortress is being rebuilt for the Vaenem's new Adventurers' Guild.
 
-<details>
 
-<summary>For Dungeon Master's eyes only</summary>
+The following chapters include notes of the completed quest.
 
 ## Stairways
 
@@ -186,4 +185,3 @@ The dusty hallway has clearly carved door, which fits perfectly to its frame. Wi
 
 Connected to [third room](#F2-3)
 
-</details>
