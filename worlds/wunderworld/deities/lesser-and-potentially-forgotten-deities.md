@@ -30,3 +30,17 @@ A god that is only known by name by some scholars. Few agree on what they repres
 Nyastharon is less of a god, and more a powerful, chaotic eldritch entity, which still acts as a patron for some warlocks.
 </details>
 
+## Ab Gratah
+Very little is known of this god, expect that it is worshipped by the Illithid.
+
+<details>
+    <summary>Additional knowledge<summary/>
+
+    Ab Garath is known by the Illithids as The Watcher and the End of Time and
+    Space. Ab Garath is an eldritch entity that grows ever more powerful as our
+    time in this reality marches towards its end. The Illithid belive that once
+    our reality is at the end of its path, Ab Garath will devour it and a new 
+    reality will be born inside Ab Garath.
+
+</details>
+
