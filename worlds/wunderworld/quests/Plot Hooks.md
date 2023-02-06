@@ -8,3 +8,6 @@ Both staircases [[barkely_fortress#S2]] and [[barkely_fortress#S1]] lead to the 
 
 ## Baroness Marblemaul's request
 Baroness [[eltuda-marblemaul]] is happy with her investment to the growing adventurer's guild, and now is going to suggest another mutually beneficial quest.
+
+## Pre-emptive measures
+The major goblin incident taken care of, the Baroness [[eltuda-marblemaul]] wants to make pre-emptive measures to make sure the goblins are not an issue in the future. If everything else fails, she wants the goblins eradicted from her domain.
