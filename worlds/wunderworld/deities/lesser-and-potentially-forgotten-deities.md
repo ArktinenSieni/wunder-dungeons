@@ -28,7 +28,8 @@ which is said to cause night and other darkness. </details>
 A god that is only known by name by some scholars. Few agree on
 what they represented and who worshipped them-
 
-<details><summary>More details</summary>
+<details>
+<summary>More details</summary>
 Nyastharon is less of a god, and more a powerful, chaotic eldritch entity,
 which still acts as a patron for some warlocks.
 </details>
@@ -62,13 +63,11 @@ Also known as The Protector or The Defender. Gilandril is a deity that has
 subtantial following of extremist clerics, but is lesser known anywhere else
 but the northern realms.
 
-<details> 
+<details>
 <summary>Spoilers<summary/>
  A demon a Anior. Gilandril looks out of zelous individuals who seek power
  over others. Gilandril is often mistaken as an angel as they will answer to
  calls of help whenever that help grants the caller the strenght or means to
  overcome a violent exchange. Gilandril's favourites are warlocks who have
  seen their true intentions and make a pact with them.
-</details>
-
-
+ </details>
