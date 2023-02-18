@@ -38,7 +38,7 @@ which still acts as a patron for some warlocks.
 Very little is known of this god, expect that it is worshipped by the Illithid.
 
 <details>
-<summary>Additional knowledge<summary/>
+<summary>Additional knowledge</summary>
 Ab Garath is known by the Illithids as The Watcher and the End of Time and
 Space. Ab Garath is an eldritch entity that grows ever more powerful as
 this reality marches towards its end. The Illithid belive that once our
@@ -52,7 +52,7 @@ known for making deals with mortals. Karathul has small cults worshipping them
 all over the world, but they rarely interract with the cults.
 
 <details>
-<summary>Spoilers<summary/>
+<summary>Spoilers</summary>
 Karathul is a demon of [Gilash](./the-four.md). They seek to tempt mortals
 to their bidding with promises of power and glory. Karathul will deliver,
 but they have their own agendas as well.
@@ -64,7 +64,7 @@ subtantial following of extremist clerics, but is lesser known anywhere else
 but the northern realms.
 
 <details>
-<summary>Spoilers<summary/>
+<summary>Spoilers</summary>
  A demon a Anior. Gilandril looks out of zelous individuals who seek power
  over others. Gilandril is often mistaken as an angel as they will answer to
  calls of help whenever that help grants the caller the strenght or means to
