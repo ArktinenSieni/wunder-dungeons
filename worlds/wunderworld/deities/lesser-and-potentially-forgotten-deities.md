@@ -51,11 +51,13 @@ Karathul is also known as the Faceless trader. Karathul is an entity that is
 known for making deals with mortals. Karathul has small cults worshipping them
 all over the world, but they rarely interract with the cults.
 
-<details>
-<summary>Spoilers</summary>
-Karathul is a demon of [Gilash](./the-four.md). They seek to tempt mortals
-to their bidding with promises of power and glory. Karathul will deliver,
-but they have their own agendas as well.
+<details> <summary>Spoilers</summary>
+
+    Karathul is a demon of [Yrmial](./the-four.md). They are a tradesman of
+    change and seek to sow either pure chaos or large change troughtout the
+    world. Karathul is a trader who trades power for favors and will use those
+    favors to further their plans.
+
 </details>
 
 ## Gilandril
@@ -63,11 +65,17 @@ Also known as The Protector or The Defender. Gilandril is a deity that has
 subtantial following of extremist clerics, but is lesser known anywhere else
 but the northern realms.
 
-<details>
-<summary>Spoilers</summary>
- A demon a Anior. Gilandril looks out of zelous individuals who seek power
- over others. Gilandril is often mistaken as an angel as they will answer to
- calls of help whenever that help grants the caller the strenght or means to
- overcome a violent exchange. Gilandril's favourites are warlocks who have
- seen their true intentions and make a pact with them.
- </details>
+<details><summary>Spoilers</summary>
+
+  A demon a Anior. Gilandril looks out of zelous individuals who seek power over
+  others. Gilandril is often mistaken as an angel as they will answer to calls of
+  help whenever that help grants the caller the strenght or means to overcome a
+  violent exchange. Gilandril's favourites are warlocks who have seen their true
+  intentions and make a pact with them.
+
+</details>
+
+## The Rider of the Four Winds
+A small deity that is falling out of favor due to their lack of power, which in turn
+makes their fall even faster. The Rider used to be worshipped by sailors and farmers
+for good weather and protection from elements.
